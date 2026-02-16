@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Modelos entrenados
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Torch cache
+.cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
